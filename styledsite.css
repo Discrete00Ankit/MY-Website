@@ -115,7 +115,11 @@ h3 {
   margin-left: 30px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
+  .profile p {
+    width: 100%;
+  }
+
   .skills {
     text-align: center;
   }
@@ -123,7 +127,7 @@ h3 {
   .bottom-cloud {
     position: absolute;
     left: 150px;
-    top: 350px;
+    top: 360px;
   }
 
   .top-cloud {
@@ -149,29 +153,30 @@ h3 {
   }
 
   .mountain {
-    width: 300px;
+    width: 400px;
+    height: auto;
   }
 
   .skill1-text {
     width: 100%;
     text-align: center;
-    padding: 10px 18px;
-    font-size: 1.5rem;
+    padding: 10px 15px;
+    font-size: 1.2rem;
   }
 
   .skill2-text {
     width: 100%;
     text-align: center;
-    padding: 10px 18px;
-    font-size: 1.5rem;
+    padding: 10px 15px;
+    font-size: 1.2rem;
   }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 700px) {
   .bottom-cloud {
     position: absolute;
-    left: 15px;
-    top: 430px;
+    left: 40px;
+    top: 480px;
   }
 }
 
