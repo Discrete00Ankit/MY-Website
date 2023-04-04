@@ -153,22 +153,22 @@ h3 {
   }
 
   .mountain {
-    width: 400px;
+    width: 300px;
     height: auto;
   }
 
   .skill1-text {
     width: 100%;
     text-align: center;
-    padding: 10px 15px;
-    font-size: 1.2rem;
+    padding: 10px 10px;
+    font-size: 1.1rem;
   }
 
   .skill2-text {
     width: 100%;
     text-align: center;
-    padding: 10px 15px;
-    font-size: 1.2rem;
+    padding: 10px 10px;
+    font-size: 1.1rem;
   }
 }
 
